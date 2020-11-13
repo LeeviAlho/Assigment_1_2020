@@ -7,10 +7,12 @@ h1 {
   font-size: 800%;
 }
 p{
-  font-size: 210%
+  font-size: 210%;
 }
 table.center {
   margin-left: auto;
   margin-right: auto;
 }
-td {button id="addtolist"> <</button>}
+td {
+  button id="addtolist"> <</button>
+}
